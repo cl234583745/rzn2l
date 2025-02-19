@@ -1,5 +1,5 @@
 
-十六、从0开始卷出一个新项目之再谈瑞萨RZN2L固件升级
+十六、从0开始卷出一个新项目之瑞萨RZN2L再谈固件升级
 ===
 [toc]
 # 一、概述
@@ -13,7 +13,7 @@
   RZN2L_bsp_xspi0bootx1_app_fsp110
 
   RZN2L_bsp_xspi0bootx1_loader_fsp200
-  RZN2L_bsp_xspi0bootx1_app_fsp110
+  RZN2L_bsp_xspi0bootx1_app_fsp200
 
 - 可以通过串口/usb来查看loader引导app的过程
 - 可以通过串口、usb、以太网等在loader中传输固件，需自己实现
